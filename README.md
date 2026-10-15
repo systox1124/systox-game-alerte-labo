@@ -1,5 +1,9 @@
 # systox-game-alerte-labo
-this is the repository of the website : systox-game.u-paris-sciences.fr
+This is the repository of the website : systox-game.u-paris-sciences.fr
+GitHub link:
+Zenodo link:
+Publication:
+
 ## Authors
 Eva Taboureau, Université Paris Cité, Inserm HealthFex, 75006 Paris, France
 Florence Jornod, Université Paris Cité, Inserm HealthFex, 75006 Paris, France
