@@ -23,9 +23,9 @@ XXX
 
 ## What is SysTox Game Alert in lab?
 
-SysTox Game Alert in Labs is a serious game modeled after an escape game. The user takes on the role of a student in a lab who find a vial containing a toxic substance knocked over on the laboratory bench. Each completed task will reveal one digit of the secret code needed to solve the investigation.
+SysTox Game Alert in Lab is an educational serious game inspired by escape-room experiences. Players take on the role of a student who discovers a vial containing a toxic substance knocked over on a laboratory bench. To solve the investigation, they must complete a series of tasks, each revealing one digit of a secret code. By combining all the digits, players can unlock the final code and complete the investigation.
 
-It was developed as part of a first-year biology bachelor’s degree internship with the SysTox team (UMRS1124), with the goal of learning how to use Python.
+The game was developed as part of an internship during the first year of a Bachelor’s degree in Biology, within the SysTox team (UMRS1124). One of the main objectives of the internship was to learn how to use Python through the development of an interactive educational game.
 
 ## Licence
 
