@@ -15,7 +15,7 @@ Karine Audouze, Université Paris Cité, Inserm HealthFex, 75006 Paris, France
 
 contact: systox@parisdescartes.fr
 
-Availability on Zenodo XX
+Availability on Zenodo DOI: 10.5281/zenodo.23421983 
 
 ## How to cite
 
